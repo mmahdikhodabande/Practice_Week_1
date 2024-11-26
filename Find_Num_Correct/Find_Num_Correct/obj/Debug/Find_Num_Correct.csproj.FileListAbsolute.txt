@@ -1,0 +1,7 @@
+C:\Users\Mehdi Kh\source\repos\Find_Num_Correct\Find_Num_Correct\bin\Debug\Find_Num_Correct.exe.config
+C:\Users\Mehdi Kh\source\repos\Find_Num_Correct\Find_Num_Correct\bin\Debug\Find_Num_Correct.exe
+C:\Users\Mehdi Kh\source\repos\Find_Num_Correct\Find_Num_Correct\bin\Debug\Find_Num_Correct.pdb
+C:\Users\Mehdi Kh\source\repos\Find_Num_Correct\Find_Num_Correct\obj\Debug\Find_Num_Correct.csproj.AssemblyReference.cache
+C:\Users\Mehdi Kh\source\repos\Find_Num_Correct\Find_Num_Correct\obj\Debug\Find_Num_Correct.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi Kh\source\repos\Find_Num_Correct\Find_Num_Correct\obj\Debug\Find_Num_Correct.exe
+C:\Users\Mehdi Kh\source\repos\Find_Num_Correct\Find_Num_Correct\obj\Debug\Find_Num_Correct.pdb

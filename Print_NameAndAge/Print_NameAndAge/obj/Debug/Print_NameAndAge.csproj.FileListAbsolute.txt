@@ -1,0 +1,7 @@
+C:\Users\Mehdi Kh\source\repos\Print_NameAndAge\Print_NameAndAge\bin\Debug\Print_NameAndAge.exe.config
+C:\Users\Mehdi Kh\source\repos\Print_NameAndAge\Print_NameAndAge\bin\Debug\Print_NameAndAge.exe
+C:\Users\Mehdi Kh\source\repos\Print_NameAndAge\Print_NameAndAge\bin\Debug\Print_NameAndAge.pdb
+C:\Users\Mehdi Kh\source\repos\Print_NameAndAge\Print_NameAndAge\obj\Debug\Print_NameAndAge.csproj.AssemblyReference.cache
+C:\Users\Mehdi Kh\source\repos\Print_NameAndAge\Print_NameAndAge\obj\Debug\Print_NameAndAge.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi Kh\source\repos\Print_NameAndAge\Print_NameAndAge\obj\Debug\Print_NameAndAge.exe
+C:\Users\Mehdi Kh\source\repos\Print_NameAndAge\Print_NameAndAge\obj\Debug\Print_NameAndAge.pdb

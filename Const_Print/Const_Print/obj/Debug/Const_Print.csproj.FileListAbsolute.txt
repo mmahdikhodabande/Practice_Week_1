@@ -1,0 +1,7 @@
+C:\Users\Mehdi Kh\source\repos\Const_Print\Const_Print\bin\Debug\Const_Print.exe.config
+C:\Users\Mehdi Kh\source\repos\Const_Print\Const_Print\bin\Debug\Const_Print.exe
+C:\Users\Mehdi Kh\source\repos\Const_Print\Const_Print\bin\Debug\Const_Print.pdb
+C:\Users\Mehdi Kh\source\repos\Const_Print\Const_Print\obj\Debug\Const_Print.csproj.AssemblyReference.cache
+C:\Users\Mehdi Kh\source\repos\Const_Print\Const_Print\obj\Debug\Const_Print.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi Kh\source\repos\Const_Print\Const_Print\obj\Debug\Const_Print.exe
+C:\Users\Mehdi Kh\source\repos\Const_Print\Const_Print\obj\Debug\Const_Print.pdb

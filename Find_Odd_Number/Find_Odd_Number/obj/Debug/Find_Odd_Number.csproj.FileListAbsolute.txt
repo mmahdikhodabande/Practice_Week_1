@@ -1,0 +1,7 @@
+C:\Users\Mehdi Kh\source\repos\Find_Odd_Number\Find_Odd_Number\bin\Debug\Find_Odd_Number.exe.config
+C:\Users\Mehdi Kh\source\repos\Find_Odd_Number\Find_Odd_Number\bin\Debug\Find_Odd_Number.exe
+C:\Users\Mehdi Kh\source\repos\Find_Odd_Number\Find_Odd_Number\bin\Debug\Find_Odd_Number.pdb
+C:\Users\Mehdi Kh\source\repos\Find_Odd_Number\Find_Odd_Number\obj\Debug\Find_Odd_Number.csproj.AssemblyReference.cache
+C:\Users\Mehdi Kh\source\repos\Find_Odd_Number\Find_Odd_Number\obj\Debug\Find_Odd_Number.csproj.CoreCompileInputs.cache
+C:\Users\Mehdi Kh\source\repos\Find_Odd_Number\Find_Odd_Number\obj\Debug\Find_Odd_Number.exe
+C:\Users\Mehdi Kh\source\repos\Find_Odd_Number\Find_Odd_Number\obj\Debug\Find_Odd_Number.pdb
